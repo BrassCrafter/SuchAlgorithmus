@@ -16,7 +16,6 @@ public class Algorithmentest
 
         //int suchwert = meinZahlenfeld.gibZufallselement();
         System.out.println("Suchwert  = " + suchwert );
-
         //System.out.println("Position LineareSuche: " + aAlgorithmus.lineareSuche(meinZahlenfeld.gibFeld(), suchwert) );
         //System.out.println("Position ZufallsSuche: " + aAlgorithmus.zufallsSuche(meinZahlenfeld.gibFeld(), suchwert) );
         System.out.println("Position BinaereSuche: " + aAlgorithmus.binaereSuche(meinZahlenfeld.gibFeldSortiert(), suchwert) );
